@@ -9,7 +9,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='30'>](mailto:carladdiazl@gmail.com)
 
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=laladdiaz&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=laladdiaz&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laladdiaz)](https://github.com/anuraghazra/github-readme-stats)
 
 
